@@ -1,11 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
-  <img alt="Achintya Agrawal, CS at the University of Washington" src="./banner-light.svg" width="100%">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <img alt="Achintya Agrawal, CS at the University of Washington. Building the distributed systems AI runs on." src="./banner-dark.svg" width="100%">
+  <img alt="Achintya Agrawal, CS at the University of Washington. Building the distributed systems AI runs on." src="./banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
