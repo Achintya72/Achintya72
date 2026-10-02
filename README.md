@@ -3,11 +3,12 @@
   <img alt="Achintya Agrawal, CS at the University of Washington. Building the distributed systems AI runs on." src="./banner-light.svg" width="100%">
 </picture>
 
-<p align="center">
-  <a href="https://linkedin.com/in/achintya-agrawal">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:agrawal7@uw.edu">agrawal7@uw.edu</a>
-</p>
 
+
+<p>
+  <a href="https://linkedin.com/in/achintya-agrawal"><img src="./linkedin.svg" alt="LinkedIn" height="36"></a>&nbsp;
+  <a href="mailto:agrawal7@uw.edu"><img src="./email.svg" alt="Email agrawal7@uw.edu" height="36"></a>
+</p>
 I'm a CS student at the Paul G. Allen School at UW. I like building backends that stay fast and reliable when real people use them.
 
 This summer I was an SDE intern at **Amazon**, where I built a platform tracking test reliability across 360+ CI/CD pipelines and brought dashboard load times down from 40 seconds to 4. Right now I'm learning systems programming in C and how databases work under the hood.

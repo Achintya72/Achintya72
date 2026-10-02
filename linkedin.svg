@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="40" viewBox="0 0 132 40" role="img" aria-label="LinkedIn">
+  <!-- Pill background: reads on both light and dark GitHub themes -->
+  <rect width="132" height="40" rx="20" fill="#2F5D9E"/>
+  <!-- Generic profile-card icon -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="15" y="12.5" width="20" height="15" rx="2.5"/>
+    <circle cx="21" cy="18.5" r="2.4"/>
+    <path d="M17.6 24.2c.8-1.6 2-2.3 3.4-2.3s2.6.7 3.4 2.3"/>
+    <path d="M27.5 18h4.5M27.5 21.5h4.5"/>
+  </g>
+  <text x="44" y="25.5" style='font: 600 15px "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, sans-serif' textLength="68" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">LinkedIn</text>
+</svg>
